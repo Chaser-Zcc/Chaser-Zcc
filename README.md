@@ -1,7 +1,6 @@
 About Me  
 A M.D with a passion for development of respiratory diseases, focusing on clinical and fundamental study of chronic airway inflammatory problems.
 
-<!---
-Chaser-Zcc/Chaser-Zcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Education experiences  
+M.D in Geriatrics,2018-2021,Anhui Medical University
+B.S in Clinical Medicine,2012-2017,Anhui Medical University
